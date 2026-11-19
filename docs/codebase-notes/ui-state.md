@@ -1,4 +1,4 @@
-> Notes v1, 2026-11-19. Describes commit `2358b59`. Written by an AI reader from the source; nothing was built or run. See [README.md](README.md) for how far to trust this.
+> Notes v2, 2026-11-19. Describes commit `2358b59`. Written by an AI reader from the source; nothing was built or run. See [README.md](README.md) for how far to trust this.
 
 # Map: ui-state (mail delegate client, local mail state, identity/contact stores, jobs loop)
 
