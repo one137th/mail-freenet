@@ -4,9 +4,13 @@
 |---|---|
 | Snapshot date | 2026-11-19 |
 | Notes version | v1 |
-| Git tag | `notes-2026-11-19-v1` |
+| Snapshot id | `notes-2026-11-19-v1` |
 | Describes | commit `2358b59` (upstream `freenet/mail` main of 2026-11-16; this fork had no changes of its own) |
 | Coverage | 6 of 14 areas. The other 8 were still being read when this was saved and come in v2. |
+
+Find a snapshot's commit with `git log --grep=<snapshot id>`. A git tag of the
+same name marks it only if the repository owner pushed one: the session that
+wrote v1 was allowed to push its branch but not tags.
 
 Reading notes made to plan work on this codebase. They are not project
 documentation: `AGENTS.md` stays the authority for rules and procedures, and
@@ -158,6 +162,6 @@ upstream `addb776`).
 
 ## Version history
 
-| Version | Date | Tag | Contents |
+| Version | Date | Snapshot id | Contents |
 |---|---|---|---|
 | v1 | 2026-11-19 | `notes-2026-11-19-v1` | 6 of 14 areas, the test baseline, the checks above |
